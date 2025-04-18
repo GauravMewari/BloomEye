@@ -1,10 +1,10 @@
-![Image](https://github.com/user-attachments/assets/90be43f1-2dd1-4eea-b193-30a2d17a45e9)
+
 
 # BloomEye: Smart Hydroponic System Monitor and Controller
 
-## BloomEye is an Android app designed to monitor and control your smart hydroponic system. 
-With BloomEye, you can track pH, humidity, and temperature levels in real-time, view historical 
-data in charts, and control electrical components remotely.
+### BloomEye is an Android app designed to monitor and control your smart hydroponic system.With BloomEye, you can track pH, humidity, and temperature levels in real-time, view historical data in charts, and control electrical components remotely.
+
+![Image](https://github.com/user-attachments/assets/90be43f1-2dd1-4eea-b193-30a2d17a45e9)
 
 # Table of Contents
 - ## features
