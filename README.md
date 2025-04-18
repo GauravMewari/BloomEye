@@ -32,7 +32,7 @@
 ![Image](https://github.com/user-attachments/assets/822f11f6-0c58-4b05-afed-43411899ee9d)
 
 # Getting Started
-1. Clone the repository: git clone https://github.com/your-username/BloomEye.git
+1. Clone the repository: git clone https://github.com/GauravMewari/BloomEye.git
 2. Open the project in Android Studio
 3. Setup with your own firebase and IOT Devices & include google.service.json file   
 4. Build and run the app on your Android device or emulator
