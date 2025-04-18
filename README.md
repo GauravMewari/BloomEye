@@ -39,7 +39,5 @@
 # Contributing
 Contributions are welcome! If you'd like to contribute to BloomEye, please fork the repository and submit a pull request.
 
-License
-
-
-Acknowledgments
+# License
+Apache license 2.0  ```	Apache-2.0 ```
