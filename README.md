@@ -34,7 +34,8 @@
 # Getting Started
 1. Clone the repository: git clone https://github.com/your-username/BloomEye.git
 2. Open the project in Android Studio
-3. Build and run the app on your Android device or emulator
+3. Setup with your own firebase and IOT Devices & include google.service.json file   
+4. Build and run the app on your Android device or emulator
 
 # Contributing
 Contributions are welcome! If you'd like to contribute to BloomEye, please fork the repository and submit a pull request.
